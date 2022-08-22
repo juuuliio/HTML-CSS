@@ -1,0 +1,21 @@
+*{
+    background-image: url(../img/teste1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
+   
+}
+body{
+    font-family: roboto;
+    font-size: 1.2em;
+    color: #fff;
+}
+h1{
+    font-size: 2.5em;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+    
+}

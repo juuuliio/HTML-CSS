@@ -1,0 +1,44 @@
+@font-face {
+    font-family: blanck;
+    src: url(../Blank\ River.ttf);
+}
+*{
+    height: 100%;
+    padding: 0;
+    box-sizing: border-box;
+    color: black;
+    text-align: justify;
+    font: italic bold 20px arial;
+    font-style: italic;
+    font-weight: normal;
+
+}
+main{
+    height: auto;
+    background-color: rgb(255, 250, 250);
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 5px 5px 10px rgb(255, 252, 252);
+    opacity: 60%;
+    margin: 50px;
+}
+body{
+    background-image: linear-gradient(80deg, #000000 10% , #005F4E 60%,#000000);
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-attachment:fixed; 
+}
+h1{
+    text-align: center;
+    color: #005F4E;
+    text-shadow: #005F4E 0px 1px 2px;
+    font-size: 42px;
+    
+}
+h2{
+    font-family: blanck;
+    font-size: 36px;
+}
+p{
+    text-indent: 29px;
+}
