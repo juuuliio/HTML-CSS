@@ -1,0 +1,63 @@
+@font-face {
+    font-family: caligrafia;
+    src: url(../VintageParty-FreeVersion.ttf);
+}
+body{
+    background-image: linear-gradient(45deg,#2a6e42,#a3bea3,#A6A69F );
+    font-weight: none;    
+    background-attachment: fixed;
+    font-family: caligrafia;
+    text-align: justify;
+    margin: 0px;  
+}
+header{
+    border: 2px solid black;
+    border-radius: 10px 20px;
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+    box-shadow: 10px 7px 15px rgba(0, 0, 0, 0.589);
+    background-color: rgba(255, 255, 255, 0.596);   
+}
+a{
+    text-decoration: none;
+    font-size: 19px;
+    
+}
+footer{
+    padding: 0px;
+    margin: 0px;
+    border: 2px solid black;
+    border-radius: 10px 20px;
+    text-align: center;
+    box-shadow: 10px 20px 15px rgba(0, 0, 0, 0.589);
+    background-color: rgba(255, 255, 255, 0.596);
+}
+main{
+    padding: 10px;
+    margin: 10px;
+    text-align: justify;
+}.texto1{
+    margin: 0px;
+   font-weight: normal;
+}
+nav >a {
+    margin-right: 10px;
+}
+nav > a:hover{
+    text-decoration: underline;
+    margin-right: 30px;
+}
+article > aside{
+    background-color: #3fcf3fb4;
+    border-radius: 20px;
+    text-align: left;
+    font-size: 10px;
+}
+p{
+    margin-bottom: 0px;
+}
+main{
+    background-color: rgba(255, 255, 255, 0.582);
+    border-radius: 10px 20px;
+}
